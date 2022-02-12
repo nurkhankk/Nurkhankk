@@ -53,6 +53,7 @@ We will have following pages:
 + As a user of the site, I want to be able to view the collected number of students for the desired subject in order to study in a group and find like-minded people.
 + As a user of the site, I want to be able to view data about the teacher, about his level in the selected subject, in order to choose the right teacher for myself.
 + As a teacher on the site, I want to be able to add time that is convenient for me, so that I can teach quality, without distractions and without rushing anywhere.\
+
 **Website Admin**
 + As a site administrator, I want to be able to check the level of undergraduates who will be teaching to make sure the classes are of good quality.
 
