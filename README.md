@@ -21,9 +21,9 @@ Also, as we know, many undergraduates are faced with the problem of closing the 
 Thanks to our website, final year students who know this or that subject very well will be able to conduct classes for elementary students, helping them to succeed in this subject, thus, with a good indicator of teaching and knowledge of this subject, close their Internship subject.
 
 ## Technologies
-Backend: Java Spring (Boot, Core, Data), PosrgreSQL, Apache Tomcat
-Frontend: React.js, TailwindCSS
-UX/UI: Figma, Adobe Photoshop
+Backend: Java Spring (Boot, Core, Data), PosrgreSQL, Apache Tomcat 
+Frontend: React.js, TailwindCSS 
+UX/UI: Figma, Adobe Photoshop 
 Development methodology: Agile (Scrum)
 
 ## Pages / Activities 
@@ -50,11 +50,11 @@ We will have following pages:
 
 ## User stories
 **Website Users**
-+As a user of the site, I want to be able to view the collected number of students for the desired subject in order to study in a group and find like-minded people.
-+As a user of the site, I want to be able to view data about the teacher, about his level in the selected subject, in order to choose the right teacher for myself.
-+As a teacher on the site, I want to be able to add time that is convenient for me, so that I can teach quality, without distractions and without rushing anywhere.
++ As a user of the site, I want to be able to view the collected number of students for the desired subject in order to study in a group and find like-minded people.
++ As a user of the site, I want to be able to view data about the teacher, about his level in the selected subject, in order to choose the right teacher for myself.
++ As a teacher on the site, I want to be able to add time that is convenient for me, so that I can teach quality, without distractions and without rushing anywhere.
 **Website Admin**
-+As a site administrator, I want to be able to check the level of undergraduates who will be teaching to make sure the classes are of good quality.
++ As a site administrator, I want to be able to check the level of undergraduates who will be teaching to make sure the classes are of good quality.
 
 ## Sitemap, Page descriptions
 
