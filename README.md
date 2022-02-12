@@ -21,7 +21,7 @@ Also, as we know, many undergraduates are faced with the problem of closing the 
 Thanks to our website, final year students who know this or that subject very well will be able to conduct classes for elementary students, helping them to succeed in this subject, thus, with a good indicator of teaching and knowledge of this subject, close their Internship subject.
 
 ## Technologies
-Backend: Java Spring (Boot, Core, Data), PosrgreSQL, Apache Tomcat__
+Backend: Java Spring (Boot, Core, Data), PosrgreSQL, Apache Tomcat/r
 Frontend: React.js, TailwindCSS__
 UX/UI: Figma, Adobe Photoshop__
 Development methodology: Agile (Scrum)__
