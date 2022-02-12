@@ -101,7 +101,7 @@ We will have following pages:
 |Account information|Editing user data|
 |Course registration|Choosing the right courses<br />Choosing a teacher by viewing information about him and his time|
 |My courses|View my current courses, view the schedule<br />View completed courses|
-|Blog|Blog for like-minded people, where there will be different topics for discussion
+|Blog|Blog for like-minded people, where there will be different topics for discussion|
 <br />
 **Page description for teacher**
 |   |   |
