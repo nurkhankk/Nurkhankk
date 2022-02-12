@@ -93,32 +93,48 @@ We will have following pages:
 ## Sitemap, Page descriptions
 ![Blank board](https://user-images.githubusercontent.com/49468283/153720411-6ed561b7-457a-44f5-b93a-55c24869e2ce.png)
 
-**Page description for student**\
+**Page description for student**
 |   |   |
 |---|---|
 |Page|Items|
-|Homepage|Account information<br /> Registration for courses<br />My courses<br />Blog|
-|Account information|Editing user data\Editing user data|
-|Course registration|Choosing the right courses\Choosing a teacher by viewing information about him and his time|
-|My courses|View my current courses, view the schedule\View completed courses|
+|Homepage|Account information<br />Registration for courses<br />My courses<br />Blog|
+|Account information|Editing user data|
+|Course registration|Choosing the right courses<br />Choosing a teacher by viewing information about him and his time|
+|My courses|View my current courses, view the schedule<br />View completed courses|
+|Blog|Blog for like-minded people, where there will be different topics for discussion
+
+**Page description for teacher**
+|   |   |
+|---|---|
+|Page|Items|
+|Homepage|Account information<br />My courses<br />Blog|
+|Account information|Editing user data<br />information about the teacher, where he will add data about himself, about his knowledge|
+|My courses|View current courses with the ability to add additional materials (books, articles)<br />Create a new course|
 |Blog|Blog for like-minded people, where there will be different topics for discussion
 
 
-
 ## Non-Functional requirements
-*Write non-functional requirements*
++ The color scheme of the site should be well matched.
++ The user interface should be intuitive.
++ The size of uploaded files should not exceed 1GB.
++ Each page should load in no more than 5 seconds.
++ The site must be secure using HTTPS.
+
 
 ## Risks
-*What are the risks?*
+Our site may not survive if a large number of users visit at the same time.\
+There is a possibility that students will not like the teaching methods of teachers.\
+When recording with teachers, students may not find a convenient time for themselves.\
+There is a possibility that teachers will hide their real knowledge in the chosen course.\
+
 
 ## Mockups, Wireframes
-*Put here images of your wireframes*
+![Course registration](https://user-images.githubusercontent.com/49468283/153720959-972fa96b-7931-4b77-a0a1-c57e062d821c.png)
+![Teacher inf](https://user-images.githubusercontent.com/49468283/153720977-ad91a01a-75ea-4e95-818a-14ee3d6fa29f.png)
+![My courses](https://user-images.githubusercontent.com/49468283/153720991-3148c15f-a87f-485b-87d4-90e5a5516dec.png)
+![Blog](https://user-images.githubusercontent.com/49468283/153720992-b7cd28ae-9e73-4028-a1ab-6855f6bf3a2c.png)
 
 ## Future iterations
-*Write your future iterations*
-
-
-|   |   |
-|---|---|
-|__Bold Key__| Value1 |
-| **Normal Key** | Value2 |
+Create a mobile application for our platform.\
+Develop a website version for all universities in Kazakhstan.\
+Add the function of creating your own forms for testing inside our site.\
