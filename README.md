@@ -103,6 +103,7 @@ We will have following pages:
 |My courses|View my current courses, view the schedule<br />View completed courses|
 |Blog|Blog for like-minded people, where there will be different topics for discussion
 
+
 **Page description for teacher**
 |   |   |
 |---|---|
@@ -125,7 +126,7 @@ We will have following pages:
 Our site may not survive if a large number of users visit at the same time.\
 There is a possibility that students will not like the teaching methods of teachers.\
 When recording with teachers, students may not find a convenient time for themselves.\
-There is a possibility that teachers will hide their real knowledge in the chosen course.\
+There is a possibility that teachers will hide their real knowledge in the chosen course.
 
 
 ## Mockups, Wireframes
@@ -137,4 +138,4 @@ There is a possibility that teachers will hide their real knowledge in the chose
 ## Future iterations
 Create a mobile application for our platform.\
 Develop a website version for all universities in Kazakhstan.\
-Add the function of creating your own forms for testing inside our site.\
+Add the function of creating your own forms for testing inside our site.
