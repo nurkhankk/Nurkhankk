@@ -97,10 +97,7 @@ We will have following pages:
 |   |   |
 |---|---|
 |Page|Items|
-|Homepage|Account information\ 
-Registration for courses\ 
-My courses\ 
-Blog|
+|Homepage|Account information<br /> Registration for courses<br />My courses<br />Blog|
 |Account information|Editing user data\Editing user data|
 |Course registration|Choosing the right courses\Choosing a teacher by viewing information about him and his time|
 |My courses|View my current courses, view the schedule\View completed courses|
