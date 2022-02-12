@@ -102,7 +102,7 @@ We will have following pages:
 |Course registration|Choosing the right courses<br />Choosing a teacher by viewing information about him and his time|
 |My courses|View my current courses, view the schedule<br />View completed courses|
 |Blog|Blog for like-minded people, where there will be different topics for discussion|
-<br />
+
 **Page description for teacher**
 |   |   |
 |---|---|
@@ -110,7 +110,7 @@ We will have following pages:
 |Homepage|Account information<br />My courses<br />Blog|
 |Account information|Editing user data<br />information about the teacher, where he will add data about himself, about his knowledge|
 |My courses|View current courses with the ability to add additional materials (books, articles)<br />Create a new course|
-|Blog|Blog for like-minded people, where there will be different topics for discussion
+|Blog|Blog for like-minded people, where there will be different topics for discussion|
 
 
 ## Non-Functional requirements
