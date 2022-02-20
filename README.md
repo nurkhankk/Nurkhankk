@@ -138,3 +138,22 @@ There is a possibility that teachers will hide their real knowledge in the chose
 Create a mobile application for our platform.\
 Develop a website version for all universities in Kazakhstan.\
 Add the function of creating your own forms for testing inside our site.
+
+
+> This folders will contain your reports
+## Week by week plan
+|...|Kairolla Nurkhan|Samarkhan Shyngys|
+|---|---|---|
+|Week #3|Working on a project idea. Set project deadlines|I will get familiar with the project, and understand what methods and functions will be used|
+|Week #4|Write a Project Proposal|I will work with a framework like Java Spring Boot, I need to choose dependencies and mavens so that the project starts correctly|
+|Week #5|Discuss the design of the project with the designer. Parse sitemap. Assign tasks to a team|I will write the architecture and configure the database on Postgresql. I will also create the necessary tables with different bundles|
+|Week #6|Check the start of the command. Solve incidental work|I will write a method for creating a user and editing. There will also be methods to secure user data|
+|Week #7|Start working on project documentation. Weekly team review|I will write methods for registering courses for students, as well as the choice of subjects and teachers|
+|Week #8|Carrying out CustDev. Weekly team review|I will create methods for teachers where you can see the current course|
+|Week #9|Work on project risks. Weekly team review|This week I also continue to write methods for creating and editing courses for teachers|
+|Week #10|Meeting with stakeholders|I will write methods for linking courses between students and teachers|
+|Week #11|Finish project documentation. Weekly team review|I will create a method for a blog where there will be like-minded people and could discuss different topics, (as a messenger)|
+|Week #12|Final review of the project|I will continue to write methods for creating blog and use websocket|
+|Week #13|Work on bugs|I will write methods for creating libraries where teachers can upload their materials|
+|Week #14|Preparing a project presentation|I will write methods for saving materials on the server side|
+|Week #15|Project presentation|I will correct errors if they are also examined completely by the backend part|
