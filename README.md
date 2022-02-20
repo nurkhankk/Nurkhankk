@@ -142,8 +142,8 @@ Add the function of creating your own forms for testing inside our site.
 
 > This folders will contain your reports
 ## Week by week plan
-|...|Kairolla Nurkhan|Samarkhan Shyngys|
-|---|---|---|
+|...|Kairolla Nurkhan|Samarkhan Shyngys|Taukye Akhjol|Kalzhanova Zhansaule|
+|---|---|---|---|---|
 |Week #3|Working on a project idea. Set project deadlines|I will get familiar with the project, and understand what methods and functions will be used|
 |Week #4|Write a Project Proposal|I will work with a framework like Java Spring Boot, I need to choose dependencies and mavens so that the project starts correctly|
 |Week #5|Discuss the design of the project with the designer. Parse sitemap. Assign tasks to a team|I will write the architecture and configure the database on Postgresql. I will also create the necessary tables with different bundles|
